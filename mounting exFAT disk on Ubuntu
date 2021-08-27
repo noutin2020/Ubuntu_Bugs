@@ -1,0 +1,3 @@
+How to Mount and Use an exFAT Drive on Ubuntu Linux
+sudo apt install exfat-fuse exfat-utils
+https://itsfoss.com/mount-exfat/ # for more details
